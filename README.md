@@ -3,7 +3,7 @@
 
 ### Hi there 👋, My name is: ✨ASIIMWE . J. ARNOLD✨
 #### FullStack Software Engineer and Content Creator
-![FullStack Software Engineer and Content Creator](https://www.linkpicture.com/q/banner_34.png)
+![FullStack Software Engineer and Content Creator](https://)
 
 ✨ I have a committed interest in many technological subjects. I am an open-source developer. I love tobe creative and inventive. I have over 4 years of experience working as a full-stack software developerlooking for an opportunity to work with teams and projects in areas front-end, back-end, systemintegration✨
 
