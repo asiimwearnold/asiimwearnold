@@ -13,7 +13,9 @@ Skills: VUE JS / REACT / JS / HTML / CSS /NodeJS
 
 - 🔭 I’m currently working on this https://medium.com/@asiimwearnold25/have-you-wondered-what-a-back-end-engineer-does-what-tools-do-they-use-in-this-course-we-a-going-ab649685544page. 
 - 🌱 I’m currently learning NextJS 
-- 💬 Ask me about Javascript, MongoDB Atlas, ReactJS 
+- 💬 Ask me about: 
+      Javascript, MongoDB Atlas, ReactJS 
+      devOps, React-Native, NodeJs
 - 📫 How to reach me: asiimwearnold25@gmail.com 
 - ⚡ Fun fact: The longest English word is 189,819 letters long 
 
